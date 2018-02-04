@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/boa-spark-java.iml" filepath="$PROJECT_DIR$/.idea/modules/boa-spark-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spark-java.iml" filepath="$PROJECT_DIR$/.idea/modules/spark-java.iml" group="spark-java" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spark-java/spark-java_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spark-java/spark-java_main.iml" group="spark-java" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spark-java/spark-java_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spark-java/spark-java_test.iml" group="spark-java" />
+    </modules>
+  </component>
+</project>
